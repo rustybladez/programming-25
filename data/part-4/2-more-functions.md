@@ -324,7 +324,7 @@ This is one of the most important skills of a programmer: **concentrate on small
 
 <programming-exercise name='A spruce' tmcname='part04-08_spruce'>
 
-Please write a function named `spruce`, which takes one argument. The function prints out the text `a spruce!`, and the a spruce tree, the size of which is specified by the argument.
+Please write a function named `spruce`, which takes one argument. The function prints out the text `a spruce!`, and a spruce tree, the size of which is specified by the argument.
 
 Calling `spruce(3)` should print out
 
@@ -597,7 +597,7 @@ Please write three functions: `first_word`, `second_word` and `last_word`. Each 
 
 As their names imply, the functions return either the first, the second or the last word in the sentence they receive as their string argument.
 
-In each case you may assume the argument string contains at least two separate words, and all words are separated by exactly one space character. There will be no spaces in the beginning or at the end of the argument strings.
+In each case, you may assume the argument string contains at least two separate words, and all words are separated by exactly one space character. There will be no spaces at the beginning or at the end of the argument strings.
 
 ```python
 sentence = "it was a dark and stormy python"
